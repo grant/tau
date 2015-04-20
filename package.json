@@ -1,0 +1,24 @@
+{
+  "name": "tau",
+  "version": "1.0.0",
+  "description": "A simpler alternative to Math.PI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grant/tau.git"
+  },
+  "keywords": [
+    "Math",
+    "pi",
+    "tau"
+  ],
+  "author": "Grant Timmerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grant/tau/issues"
+  },
+  "homepage": "https://github.com/grant/tau"
+}
